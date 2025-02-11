@@ -22,3 +22,4 @@ This app uses [history mode](https://router.vuejs.org/en/essentials/history-mode
 
 ## License
 [MIT](https://github.com/dmtrbrl/tmdb-app/blob/master/LICENSE)
+Hi dear
